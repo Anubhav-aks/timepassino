@@ -1,0 +1,20 @@
+.img1{
+    box-shadow: blue;
+}
+.space{
+    justify-content: center;
+}
+.gap{
+    padding: 1rem;
+}
+.title1{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #367CFF;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: uppercase;
+}

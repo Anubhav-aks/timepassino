@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Rock-Paper-Scissors"
+    }
+  },
+  "defaultProject": "Rock-Paper-Scissors",
+  "cli": {
+    "analytics": "6af29bbf-64aa-4bbb-9549-51906acda296"
+  }
 }
